@@ -1,6 +1,8 @@
-Hi! I am an undergraduate student of the University of Manchester and this project is my first public repo. 
+Hi! I am Vlad and I am an undergraduate student of the University of Manchester and this project is my first public repo. 
 
 It is nothing exciting, just a tiny bot for assigning "some roles" during a team meeting. 
+
+This is initially developed as a medium for out team to practice async development process. 
 
 It won't have any support for anything (unless I will be gifted with someones request), I decided to make it public just because I wanted to try.
 
